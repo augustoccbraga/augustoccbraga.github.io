@@ -5,7 +5,7 @@
 .card p{margin:0;font-size:1.1rem;max-width:fit-content;font-style:italic}
 .card span{font-size:1.1rem;justify-self:end;text-align:right;line-height:2}
 .card #nome{grid-column:2}
-.footer{position:relative;padding:1.5rem;text-align:center;background-color:#408dae;color:#408dae}
+.footer{position:relative;padding:1.5rem;text-align:center;background-color:#408dae;}
 .footer::before{content:"";position:absolute;right:0rem;top:-4rem;width:6rem;border-top:4rem solid transparent;border-bottom:4rem solid transparent;border-right:7rem solid #3d99c0}
 @media (max-width:1000px){
 .card-container h1{margin:0;align-self:center}
