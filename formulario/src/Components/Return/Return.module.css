@@ -1,0 +1,12 @@
+.return {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #006ca4;
+	height: 3.5rem;
+	width: 3.5rem;
+	border-radius: 0 0 100% 0;
+	background-image: url("../img/return.svg");
+	background-size: 40px 40px;
+	background-repeat: no-repeat;
+}
