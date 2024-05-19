@@ -4,7 +4,7 @@ import styles from "./Return.module.css";
 const Return = () => {
 	return (
 		<nav>
-			<a href="../index.html" className={styles.return}></a>
+			<a href="../../" className={styles.return}></a>
 		</nav>
 	);
 };
